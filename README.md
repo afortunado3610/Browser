@@ -8,9 +8,7 @@
 
 A browser built on top of `Electron` using nothing but pure web technologies.
 
-![Browser interface](https://user-images.githubusercontent.com/19557485/80795370-34793200-8b94-11ea-9a1a-b3be1f5e9f88.png)
-
-</div>
+![Browser interface](h
 
 # Features
 
