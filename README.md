@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://ohhaibrowser.com"><img src="browser/assets/icons/icon.png" width="128"></a>
+<a href="https://browser.com"><img src="browser/assets/icons/icon.png" width="128"></a>
 
-# OhHai Browser
+# Browser
 
-<a href="https://github.com/OhHaiBrowser/Browser/releases"> ![GitHub All Releases](https://img.shields.io/github/downloads/OhHaiBrowser/Browser/total) </a>
+<a href="https://github.com/BROWSER-COIN/Browser/releases"> ![GitHub All Releases](https://img.shields.io/github/downloads/OhHaiBrowser/Browser/total) </a>
 <a href="https://discord.gg/Q8QAdTs"> ![Discord](https://img.shields.io/discord/702441664995917935?label=Discord) </a>
 
 A browser built on top of `Electron` using nothing but pure web technologies.
@@ -21,11 +21,11 @@ A browser built on top of `Electron` using nothing but pure web technologies.
 
 
 # Contributing
-If you find any bugs or want to improve OhHai Browser please feel free to submit a pull request, [open an issue](https://github.com/OhHaiBrowser/Browser/issues/new) or send a homing pigeon. OhHai Browser is under constant development meaning bugs may happen from time to time (we're only human!). It would be great if you could point these our or even help us defeat them.
+If you find any bugs or want to improve Browser please feel free to submit a pull request, [open an issue](https://github.com/BROWSER-COIN/Browser/issues/new) or send a homing pigeon.  Browser is under constant development meaning bugs may happen from time to time (we're only human!). It would be great if you could point these our or even help us defeat them.
 
 ## Running
 
-Before running OhHai Browser please make sure you have the **latest** [`Node.js`](https://nodejs.org/en/) installed on your machine.
+Before running  Browser please make sure you have the **latest** [`Node.js`](https://nodejs.org/en/) installed on your machine.
 
 To run, open the repo in a terminal and run: 
 ```
